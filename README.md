@@ -21,8 +21,8 @@ It is suggested you thoroughly test your server after applying these files to en
 functioning of your server.
 
 
-cfgspawnabletypes \ events.xml \ globals.xml \ messages.xml
-To install these files simply reset your  CFG and XMLS to default, then upload these over the top of your existing files and restart your server.
+cfgspawnabletypes.xml \ events.xml \ globals.xml \ messages.xml
+To install these files simply reset your  XMLS to default, then upload these over the top of your existing files and restart your server.
 
 cfggameplay.json
 Includes map function config that shows player position without needing GPS Receiver, tourist map or compass, unlimited sprint, and build anywhere settings. cfggameplay.json must be enabled in server settings and / or serverdz.cfg.
