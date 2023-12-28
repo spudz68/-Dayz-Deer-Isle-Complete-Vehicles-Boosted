@@ -1,6 +1,7 @@
 Dayz Deer Isle Complete Vehicles
 
 Created by spudz68,  Please report bugs & errors to spudz gamez discord,  with screenshots.
+Tested on PC Deer Isle Local Server and Remote Server  DAYZ  Version 1.23 .
 
 
 TERMS OF USE
