@@ -1,6 +1,6 @@
 Dayz Deer Isle Complete Vehicles
 
-Created by spudz68,
+Created by spudz68,  Please report bugs & errors to spudz gamez discord,  with screenshots.
 
 
 TERMS OF USE
