@@ -32,7 +32,7 @@ globals.xml
 Includes Loot will spawn in pristine. No food decay. 
 
 messages.xml
-Includes Simple server countdown to restart message. ( Restarts every 4 hours.)
+Includes Simple server countdown to restart message. ( server restarts every 4 hours.)
 
 Follow These steps, Vehicles will spawn in complete , with items in the trunk.
 
