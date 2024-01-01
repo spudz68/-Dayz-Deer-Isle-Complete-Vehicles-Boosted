@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
-    <!--heliz-->
-     <type name="RFFSHeli_LittleBird">
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_hydraulic_hoses" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_wiring_harness" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_igniter_plug" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_aviation_battery" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_flight_case_red" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="RFFSHeli_LittleBird_Camo">
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_hydraulic_hoses" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_wiring_harness" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_igniter_plug" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_aviation_battery" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="RFFSHeli_flight_case_red" chance="1.00" />
-		</attachments>
-	</type>
-    <!--vanila-->
-    <type name="Barrel_Blue">
+ <type name="Barrel_Blue">
 		<hoarder />
 	</type>
 	<type name="Barrel_Green">
